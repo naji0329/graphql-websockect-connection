@@ -1,0 +1,16 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "This is GrqhQL and Websockect Project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NAJI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "graphql-request": "^3.7.0",
+    "prompt": "^1.2.1"
+  }
+}
